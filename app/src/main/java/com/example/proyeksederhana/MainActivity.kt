@@ -36,7 +36,7 @@ fun MyScreen() {
         Button(onClick = {
             Toast.makeText(context, "Selamat datang di Android", Toast.LENGTH_SHORT).show()
         }) {
-            Text(text = "Klik Disini")
+            Text(text = "Ganti")
         }
     }
 }
